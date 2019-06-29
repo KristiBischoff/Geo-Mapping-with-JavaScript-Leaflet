@@ -1,4 +1,4 @@
-# Geo Mapping with Leaflet.js
+# Mapping with Leaflet.js
 
 ## Background
 
